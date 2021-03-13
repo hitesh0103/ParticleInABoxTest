@@ -1,2 +1,2 @@
 # ParticleInABoxTest
-This was just a test..
+This was just a test.
